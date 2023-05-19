@@ -1,0 +1,15 @@
+
+.Navbar{
+    color: blue;
+    text-align: center;
+} 
+
+#Navbar{
+    background-color: red;
+}
+
+.Kotak{
+    background-color: red;
+    width: 100px;
+    height: 50px;
+}
